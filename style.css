@@ -1,0 +1,16 @@
+/* 
+	STYLE.CSS:
+	One stylesheet to rule them all.
+	
+	selector { property:value }
+
+*/
+
+@import 'https://fonts.googleapis.com/css?family=Comfortaa';
+
+
+#clock {
+  color: #000;
+  font-size: 120px;
+  font-family: 'Comfortaa', cursive;
+}
